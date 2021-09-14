@@ -1,5 +1,4 @@
 ### Olá, Me chamo Leonardo, 
-- Atualmente trabalhando como desenvolvedor Fluig(Totvs) e Administrador BPM Acadêmico (Ábaris SEAD). 
 - Cursando 4º Periodo de Sistemas de Informação - Centro Universitário Unifoa.
 - Estudando Type Script, React e React Native pela Faculdade.
 - Conhecimento em Banco de Dados: SQL, Oracle, PostgreSql e MongoDb.
