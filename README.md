@@ -1,8 +1,5 @@
 ### Olá, Me chamo Leonardo, 
-- Cursando 4º Periodo de Sistemas de Informação - Centro Universitário Unifoa.
-- Estudando Type Script, React e React Native pela Faculdade.
-- Conhecimento em Banco de Dados: SQL, Oracle, PostgreSql e MongoDb.
-- Apaixonado por python seus frameworks: Django/Flask 🤣 
+- Cursando Análise e desenvolvimento de sistemas - Estácio.
 ##
 Aqui você encontrará projetos em: 
 - Django/flask.
