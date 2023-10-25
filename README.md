@@ -1,14 +1,11 @@
 ### Bem vindo, 
-- Cursando Redes de Computadores, apaixonado por Tecnologia SO, Servidores, Infra e programação.
-- LPIC-1 em andamento.
+
 ##
 Aqui você encontrará conteúdos variados: 
-- Projetos Django, Flask e Django RestFramework
+- Projetos Django, Flask e Django Rest-Framework
 - Projetos .Net Core.
 - Scripts Python
 - ShellScript (bash)
-- Linux/Windows
-- CCNA
 ##
 
 <div>    
